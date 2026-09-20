@@ -35,4 +35,4 @@ A human may need to install Manim and run the render command. Publishing to GitH
 
 ## GitHub
 
-A new public repository URL is recorded here after publishing.
+New public repository: https://github.com/RNGBubba/git-receipts-explainer
